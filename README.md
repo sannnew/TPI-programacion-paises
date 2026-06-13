@@ -18,7 +18,7 @@ ordenamientos y estadísticas a través de un menú interactivo en consola.
 | Nombre    | Apellido  |
 | --------- | --------- |
 | Adalberto | Navas     |
-| Santiago  | Tejeda    |
+|           |           |
 
 ---
 
@@ -166,8 +166,10 @@ Brasil,213993437,8515767,América
 Alemania,83149300,357022,Europa
 ```
 
+---
+
 ## Links
-Enlace del Video : 
 
-
-
+- **Repositorio GitHub:** [Insertar URL]
+- **Video demostración:** [Insertar URL]
+- **Documentación PDF:** [Insertar URL o indicar que está en la raíz del repositorio]
